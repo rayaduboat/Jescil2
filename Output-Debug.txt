@@ -1,0 +1,11 @@
+﻿Verbose logs are written to:
+x:\temp\visualstudio-js-debugger.txt
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/Services.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/Contact.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/About.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/Services.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/Services.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/Services.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/About.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/Contact.html
+Powered by AMP ⚡ HTML – Version 2102200206006 http://localhost:54619/About.html
